@@ -153,6 +153,7 @@
         <div class="nav-links">
             <a href="/">トップページ</a>
             <a href="/greeting">挨拶ページ</a>
+            <a href="/api-test">API テスト</a>
         </div>
     </div>
 </body>

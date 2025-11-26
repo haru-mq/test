@@ -6,7 +6,12 @@ use App\Models\Person;
 use Illuminate\Http\Request;
 
 Route::get('/', function () {
-    return view('welcome');
+    return redirect('/greeting');
+});
+
+// API テストページ
+Route::get('/api-test', function () {
+    return view('api-test');
 });
 
 // 人のページ

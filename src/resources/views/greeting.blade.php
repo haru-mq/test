@@ -154,6 +154,7 @@
         <div class="nav-links">
             <a href="/">トップページ</a>
             <a href="/people">人のページ</a>
+            <a href="/api-test">API テスト</a>
         </div>
     </div>
 </body>
